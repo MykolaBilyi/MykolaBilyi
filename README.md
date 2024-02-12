@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 [![Github Follow](https://img.shields.io/github/followers/MykolaBilyi?style=social)](https://github.com/MykolaBilyi)
 
 
-Latest blog posts from [MykolaBilyi.github.io](mykolabilyi.github.io)
+Latest blog posts from [MykolaBilyi.github.io](https://mykolabilyi.github.io)
